@@ -106,7 +106,10 @@ public class Jdis extends Tool {
 //        classPath = "../Data/fiveLangData/Java/RxJava/build/classes/java/test/io/reactivex/rxjava3/internal/operators/mixed/FlowableSwitchMapMaybeTest$34.class";
         File p = null;
         String prjName = outputPath.split("/")[1];
+//System.out.println(outputPath);
+        //String prjName = outputPath.split("\\")[1];
         //RXJava
+        //String fileName = classPath.split("\\")[classPath.split("\\").length - 1];
         String fileName = classPath.split("/")[classPath.split("/").length - 1];
         //FlowableSwitchMapMaybeTest$34.class
         String insidePath = classPath.replace(fileName, "");
