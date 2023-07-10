@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.handong.csee.isel.bytecodeparser.JasmClassTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-10T01:53:11" hostname="DESKTOP-O2FHVFN" time="0.057">
-  <properties/>
-  <testcase name="testJasm()" classname="edu.handong.csee.isel.bytecodeparser.JasmClassTest" time="0.057"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
